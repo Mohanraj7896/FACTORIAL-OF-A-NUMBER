@@ -52,12 +52,16 @@ THIN:RET
 END
 
 ```
-OUTPUT
+PROGRAM:
+<img width="1920" height="1080" alt="Screenshot 2025-09-22 211424" src="https://github.com/user-attachments/assets/77798fb9-ecc2-4303-8d68-1d82644b4ce5" />
 
-(Keil output screenshot can be inserted here)
+OUTPUT:
+<img width="552" height="473" alt="Screenshot 2025-09-22 211453" src="https://github.com/user-attachments/assets/d6701ec1-a613-4f28-9fd8-eed2b2485457" />
 
 ---
-MANUAL CALCULATIONS
+MANUAL CALCULATIONS:
+![WhatsApp Image 2025-09-22 at 21 19 16_a30e1bce](https://github.com/user-attachments/assets/4a3961b0-f5a3-471c-a941-081db0867dd5)
+
 
 ---
 
